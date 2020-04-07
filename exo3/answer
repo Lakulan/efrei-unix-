@@ -1,2 +1,2 @@
-find.-name".#" or "*~"-print
-delete
+find.\(-name "*~" -or -name "#*#"\) -delete -print
+
