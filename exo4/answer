@@ -1,0 +1,2 @@
+crééer une allias dans .bashrc
+allias rmp=find.\(-name "*~" -or -name "#*#"\) -delete -print
